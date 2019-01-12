@@ -6,4 +6,6 @@ function drag(id){
 		a = ev.pageX - obj.offsetLeft;
 		b = ev.pageY - obj.offsetTop;
 	}
+	var c = 0;
+	var d = 0;
 }
